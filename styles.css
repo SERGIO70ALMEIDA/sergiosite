@@ -1,0 +1,18 @@
+/* Custom styles for the site */
+.hero {
+    background-image: url('https://via.placeholder.com/1200x600');
+    background-size: cover;
+    background-position: center;
+}
+
+h1, h2 {
+    font-family: 'Arial', sans-serif;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+footer {
+    background-color: #f8f9fa;
+}
